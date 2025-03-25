@@ -1,0 +1,11 @@
+# Ignore environment files and sensitive data
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+.vscode/
+.DS_Store
+.idea/
+node_modules/
